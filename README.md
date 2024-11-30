@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fatima Al-Zahraa Hammoud</h1>
-<h3 align="center">Building the future, one line of code at a time.</h3>
+<div style="text-align: center;" align="center">
+  <h3 style="display: inline-block; margin: 0; font-size: 18px; vertical-align: middle;">
+    Building the future, one line of code at a time.
+  </h3>
+  <img 
+    src="https://cdn.discordapp.com/attachments/1186519447163383880/1312484968303169646/STK-20241130-WA0177.webp?ex=674caa61&is=674b58e1&hm=d42784c261162dd8ad32c95d0053464e4cf1d15613135aa4ecfe7bb0c4de83d3&" 
+    width="100" 
+    alt="Image beside text" 
+    style="display: inline-block; vertical-align: middle; margin-left: 10px;"
+  />
+</div>
+
+
 <div align="center" style="margin-bottom: 10px;">
   <img align="center" alt="Coding" width="800" src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/ochimusha01/20171009/20171009151959.gif"/>
 </div><br>
