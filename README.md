@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatima Al-Zahraa Hammoud</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 
-<p align="center">Welcome to my GitHub! I'm a Junior Developer passionate about creating impactful web applications and constantly learning new technologies.</p>
+<p>Welcome to my GitHub! I'm a Full-Stack Junior Developer passionate about creating impactful web applications and constantly learning new technologies.</p>
 
-<p align="center">
-  <strong>📫 How to reach me:</strong> fatimaalzahraahammoud@gmail.com<br>
-  <strong>⚡ Fun fact:</strong> I love experimenting with new coding challenges – the tougher, the better! 💡💻
-</p>
+- <strong>📫 How to reach me:</strong> fatimaalzahraahammoud@gmail.com<br>
+- <strong>⚡ Fun fact:</strong> I love experimenting with new coding challenges – the tougher, the better! 💡💻
 
 ### Connect with me:
 <p align="center">
@@ -46,8 +44,8 @@
 </p>
 
 ### My GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatima-alzahraa-hammoud&show_icons=true&locale=en&layout=compact" alt="fatima-alzahraa-hammoud" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fatima-alzahraa-hammoud&show_icons=true&locale=en" alt="fatima-alzahraa-hammoud" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-alzahraa-hammoud&" alt="fatima-alzahraa-hammoud" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatima-alzahraa-hammoud&show_icons=true&locale=en&layout=compact" alt="fatima-alzahraa-hammoud" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatima-alzahraa-hammoud&show_icons=true&locale=en" alt="fatima-alzahraa-hammoud" /><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-alzahraa-hammoud&" alt="fatima-alzahraa-hammoud" /><br>
 </div>
