@@ -74,5 +74,5 @@
 ### Streak Stats
 <hr>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-alzahraa-hammoud&" alt="fatima-alzahraa-hammoud" />
+  &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-alzahraa-hammoud&" alt="fatima-alzahraa-hammoud" />
 </p>
