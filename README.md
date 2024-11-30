@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima Al-Zahraa Hammoud</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 <div align="center" style="margin-bottom: 10px;">
-  <img align="center" alt="Coding" width="800" src="https://media1.tenor.com/m/-UygBh3nnfEAAAAd/coding.gif"/>
+  <img align="center" alt="Coding" width="800" src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/ochimusha01/20171009/20171009151959.gif"/>
 </div><br>
 <p>Welcome to my GitHub! I'm a Full-Stack Junior Developer passionate about creating impactful web applications. Constantly learning new technologies and improving my skills.</p>
 
