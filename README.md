@@ -45,7 +45,7 @@
 
 ### My GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatima-alzahraa-hammoud&show_icons=true&locale=en&layout=compact" alt="fatima-alzahraa-hammoud" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=fatima-alzahraa-hammoud&show_icons=true&locale=en" alt="fatima-alzahraa-hammoud" /><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-alzahraa-hammoud&" alt="fatima-alzahraa-hammoud" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatima-alzahraa-hammoud&show_icons=true&locale=en&layout=compact" alt="fatima-alzahraa-hammoud" /><br>
 </div>
