@@ -22,46 +22,47 @@
 <hr>
 <p><strong>Frontend Development:</strong></p>
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/> HTML5</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/> CSS3</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript</a></li>
-  <li><a href="https://reactjs.org/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"/> React</a></li>
-  <li><a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="20" height="20"/> Bootstrap</a></li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/> HTML5</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/> CSS3</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"/> React</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="20" height="20"/> Bootstrap</li>
 </ul>
 
 <p><strong>Backend Development:</strong></p>
 <ul>
-  <li><a href="https://nodejs.org/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20"/> Node.js</a></li>
-  <li><a href="https://expressjs.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="20" height="20"/> Express.js</a></li>
-  <li><a href="https://www.php.net/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20"/> PHP</a></li>
-  <li><a href="https://www.mysql.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL</a></li>
-  <li><a href="https://laravel.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="20" height="20"/> Laravel</a></li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20"/> Node.js</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="20" height="20"/> Express.js</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20"/> PHP</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="20" height="20"/> Laravel</li>
 </ul>
 
 <p><strong>Mobile Development:</strong></p>
 <ul>
-  <li><a href="https://developer.android.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="20" height="20"/> Android</a></li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="20" height="20"/> Android</li>
 </ul>
 
 <p><strong>Data Science and AI:</strong></p>
 <ul>
-  <li><a href="https://www.python.org/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python</a></li>
-  <li><a href="https://scikit-learn.org/" target="_blank" style="text-decoration: none; color: white;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="20" height="20"/> Scikit-learn</a></li>
-  <li><a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="20" height="20"/> Pandas</a></li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="20" height="20"/> Scikit-learn</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="20" height="20"/> Pandas</li>
 </ul>
 
 <p><strong>Design and Tools:</strong></p>
 <ul>
-  <li><a href="https://www.figma.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="20" height="20"/> Figma</a></li>
-  <li><a href="https://www.adobe.com/products/photoshop.html" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="20" height="20"/> Photoshop</a></li>
-  <li><a href="https://firebase.google.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"/> Firebase</a></li>
-  <li><a href="https://git-scm.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git</a></li>
-  <li><a href="https://www.postman.com/" target="_blank" style="text-decoration: none; color: white;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="20" height="20"/> Postman</a></li>
+  <li><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="20" height="20"/> Figma</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="20" height="20"/> Photoshop</li>
+  <li><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"/> Firebase</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git</li>
+  <li><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="20" height="20"/> Postman</li>
 </ul>
 
 ### GitHub Stats
 <hr>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatima-alzahraa-hammoud&show_icons=true&locale=en&layout=compact" alt="fatima-alzahraa-hammoud" width="450" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatima-alzahraa-hammoud&show_icons=true&locale=en" alt="fatima-alzahraa-hammoud" width="450" />
+<div>
+  <div style="margin-bottom: 10px;"><img align="center" style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=fatima-alzahraa-hammoud&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="fatima-alzahraa-hammoud" /></div><br>
+  <div style="margin-bottom: 10px;"><img align="center" style="margin-bottom: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-alzahraa-hammoud&theme=dark" alt="fatima-alzahraa-hammoud" /></div><br>
+  <div style="margin-bottom: 10px;"><img align="left" style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatima-alzahraa-hammoud&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="fatima-alzahraa-hammoud" /></div><br>
 </div>
