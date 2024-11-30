@@ -61,18 +61,18 @@
 
 ### GitHub Stats
 <hr>
-<p align="center">
+<div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatima-alzahraa-hammoud&show_icons=true&locale=en&layout=compact" alt="fatima-alzahraa-hammoud" />
-</p>
+</div>
 
 ### Top Languages
 <hr>
-<p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatima-alzahraa-hammoud&show_icons=true&locale=en" alt="fatima-alzahraa-hammoud" />
-</p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatima-alzahraa-hammoud&show_icons=true&locale=en" alt="fatima-alzahraa-hammoud" />
+</div>
 
 ### Streak Stats
 <hr>
-<p align="center">
+<div align="center">
   &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-alzahraa-hammoud&" alt="fatima-alzahraa-hammoud" />
-</p>
+</div>
