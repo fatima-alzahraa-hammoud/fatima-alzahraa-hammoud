@@ -15,6 +15,8 @@
 <div align="center" style="margin-bottom: 10px;">
   <img align="center" alt="Coding" width="800" src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/ochimusha01/20171009/20171009151959.gif"/>
 </div><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatima-alzahraa-hammoud&label=Profile%20views&color=0e75b6&style=flat" alt="fatima-alzahraa-hammoud" /> </p>
+
 <p>Welcome to my GitHub! I'm a Full-Stack Junior Developer passionate about creating impactful web applications. Constantly learning new technologies and improving my skills.</p>
 
 - 📫 How to reach me: **fatimaalzahraahammoud@gmail.com**
