@@ -3,12 +3,6 @@
   <h3 style="display: inline-block; margin: 0; font-size: 18px; vertical-align: middle;">
     Building the future, one line of code at a time.
   </h3>
-  <img 
-    src="https://cdn.discordapp.com/attachments/1186519447163383880/1312484968303169646/STK-20241130-WA0177.webp?ex=675d2521&is=675bd3a1&hm=a399447bab2d0e641fe34459e6735a985162ee73e8776ba163ec90b7257ca850&" 
-    width="100" 
-    alt="Coding Image" 
-    style="display: inline-block; vertical-align: middle; margin-left: 10px;"
-  />
 </div>
 
 
